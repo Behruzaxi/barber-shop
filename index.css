@@ -1,3 +1,6 @@
+img{
+    display: block;
+}
 * {
     margin: 0;
     padding: 0;
@@ -302,4 +305,222 @@ height: 636.5px;
 .icons{
     text-align: center;
     margin-left: 270px;
+}
+
+#blue{
+    padding-right: 40px;
+    margin-top: -200px;
+    width: 132.81px;
+    height: 276.5px;
+}
+
+#biui{
+    padding-left: 40px;
+    margin-top: -200px;
+margin-left: 960px;
+width: 132.81px;
+height: 276.5px;
+}
+#dse{
+    display: none;
+}
+
+@media only screen and (max-width: 640px) {
+    #ed {
+      display: none;
+      
+    }
+    #dse{
+        display: flex;
+    }
+    .bigimg {
+        width: 300px;
+        height: 200px;
+        left: 788px;
+        top: 171px;
+        margin-top: 11px;
+        margin-left: 150px;
+    }
+    .dol{
+        display: none;
+    }
+.hair {
+    margin-top: 13px;
+    font-size: 15px;
+    margin-left: 50px;
+}
+.it{
+    font-size: 12px;
+    margin-left: 50px;
+}
+.get{
+     width: 118px;
+     height: 45px;
+    left: 188px;
+    top: 813px;
+    color: white;
+    background: #99BAED;
+    border-radius: 10px;
+    border: 1px solid #99BAED;
+     margin-top: 67px;
+    }
+    #it{
+        margin-top: 50px;
+        width: 132.81px;
+        height: 276.5px;
+        left: -120px;
+        
+    }
+    #ti {
+        width: 132.81px;
+        height: 236.5px;
+        margin-left: 503px;
+        margin-top: -290px;
+    }
+    .no {
+        width: 318px;
+        height: 318px;
+        margin-left: 70px;
+        margin-top: -70px;
+        background: url(283126.jpg);
+    }
+    .his {
+        margin-top: -120px;
+        margin-left: 160px;
+        color: #163561;
+        position: absolute;
+        font-family: 'Catamaran';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 25px;
+        line-height: 150.6%;
+        letter-spacing: 0.03em;
+    }
+    .estab {
+        margin-top: -30px;
+        margin-left: 160px;
+        font-size: 8px;
+    }
+    .esab {
+        margin-top: 0px;
+        margin-left: 160px;
+        font-size: 8px;
+    }
+    .learn {
+        width: 100px;
+        height: 35px;
+        background: #99BAED;
+        border-radius: 15px;
+        border: 0px solid #99BAED;
+        color: white;
+        margin-left: 160px;
+        
+    }
+    .ser {
+        font-family: 'Catamaran';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 116.6%;
+        margin-top: 150px;
+        text-align: center;
+        letter-spacing: 0.03em;
+        color: #163561;
+    }
+    .baby{
+        display: flex;
+        border-radius: 5px;
+    }
+    .carf{
+        margin-top: 10px;
+        margin: auto;
+    }
+    .card-tit {
+        text-align: center;
+        padding-top: 10px;
+        padding-bottom: 30px;
+        font-size: 15px;
+      padding-right: 50px;
+      padding-left: 50px;
+     
+    }
+    #bi {
+        width: 132.81px;
+        height: 236.5px;
+        width: 162.81px;
+        height: 246.5px;
+        margin-top: 150px;
+    }
+    #vi {
+        padding-left: 40px;
+        margin-top: -250px;
+        margin-left: 460px;
+        width: 200.81px;
+        height: 226.5px;
+    }
+    #gi {
+        margin-top: -70px;
+        width: 192.81px;
+        height: 246.5px;
+        left: -120px;
+    }
+    #hi {
+        padding-left: 40px;
+        margin-top: -250px;
+        margin-left: 460px;
+        width: 202.81px;
+        height: 236.5px;
+    }
+    .orta {
+        text-align: center;
+        margin-left: 150px;
+        color: #163561;
+    }
+    .lasimg {
+        width: 200px;
+        height: 226.5px;
+        margin-top: 50px;
+        margin-left: 0px;
+    }
+    .lastimg {
+        padding-left: 20px;
+        width: 200px;
+        height: 226px;
+        margin-top: -00px;
+        margin-left: 0px;
+    }
+    
+
+
+    button:not(:disabled) {
+        cursor: pointer;
+        margin-top: 100px;
+        margin: auto;
+        margin-left: 200px;
+        margin-top: 50px;
+    }
+    .arb {
+        margin-top: 160px;
+        margin-left: 200px;
+    }
+    .abek {
+        margin-top: -30px;
+        margin-left: 265px;
+    }
+    .long {
+        margin-top: 300px;
+        margin-right: 50px;
+        font-size: 15px;
+    }
+    .icons {
+        text-align: center;
+        margin-left: 200px;
+    }
+    #biui {
+        padding-left: 40px;
+        margin-top: -270px;
+        margin-left: 500px;
+        width: 132.81px;
+        height: 276.5px;
+    }
 }
